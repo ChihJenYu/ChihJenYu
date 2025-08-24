@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jason Yu
+Hi there 👋 I’m Jason Yu
 =================================================================================================================================
-
-Hi there 👋 I’m Jason
 
 💡 I am a software engineer with 3+ years of experience in full-stack development, search infrastructure, and distributed data systems.  
 ✨ I enjoy databases, system design, and building products that are loved.
