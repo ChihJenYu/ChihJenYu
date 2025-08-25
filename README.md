@@ -11,7 +11,7 @@ I am a software engineer with 3+ years of experience in backend and cloud develo
 🎓 Surprisingly, I started off with a Bachelor's in Accounting from National Taiwan University… so yes, I can balance books **and** servers! <br/>
 
 ### Achievements & Leadership
-🏆 Migrated search infrastructure from Algolia to Elasticsearch, enhancing search experience for 7M+ users <br/>
+🏆 Migrated search infrastructure from Algolia to Elasticsearch, enhancing search experience for 8M+ users <br/>
 🤝 Mentored engineers and contributed to team-wide growth in backend and search technologies <br/>
 🌏 Built [Bablamos](https://github.com/ChihJenYu/Bablamos-server), a fully-fledged social platform with near real-time newsfeed algorithm <br/>
 
