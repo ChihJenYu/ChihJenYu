@@ -1,48 +1,48 @@
 Hi there 👋 I’m Jason Yu
 =================================================================================================================================
+I am a software engineer with 3+ years of experience in backend and cloud development. I like system design, databases, and building products that are loved.
 
-💡 I am a software engineer with 3+ years of experience in full-stack development, search infrastructure, and distributed data systems.  
-✨ I enjoy databases, system design, and building products that are loved.
+### 🙋🏻‍♂️ About Me
+🐝 CS @ Georgia Tech <br/>
+🍰 Software Engineer @ Cake Taiwan (2022 - 2025) <br/>
+🤖 Software Engineer @ Aiworks (2023 - 2024) <br/>
+🧑‍💻 Experienced in Ruby on Rails, FastAPI, PostgreSQL, Elasticsearch, and AWS <br/>
+✨ Passionate about Databases, Search and Recommendation Systems, and Cloud Technologies <br/>
+🎓 Surprisingly, I started off with a Bachelor's in Accounting from National Taiwan University… so yes, I can balance books **and** servers! <br/>
 
-🎓 MSCS @ Georgia Tech (Class of 2027, Expected)  
-💻 Software Engineer @ Cake (Search & Recommendation Systems)  
-☁️ Software Engineer @ Aiworks (Access Control & Event Tracking)  
-🔍 Passionate about Search Systems, Recommender Systems, and Distributed Data Platforms  
-⚡ Experienced in full-stack software development, large-scale search infrastructure, and cloud deployment  
+### 🚀 Achievements & Leadership
+🏆 Migrated search infrastructure from Algolia to Elasticsearch, enhancing search experience for 7M+ users <br/>
+🤝 Mentored engineers and contributed to team-wide growth in backend and search technologies <br/>
+🌏 Built [Bablamos](https://github.com/ChihJenYu/Bablamos-server), a fully-fledged social platform with near real-time newsfeed algorithm <br/>
 
-**Leadership & Achievements**  
-🏆 Drove major improvements in search & recommendation systems at Cake, impacting millions of users  
-🚀 Led infrastructure migrations and automation initiatives that reduced costs and accelerated deployments  
-🤝 Mentored engineers and contributed to team-wide growth in backend and search technologies  
-🌍 Awarded for impactful projects across search, recommendation, and scalable cloud systems  
+### 🖥️ Languages & Frameworks
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 💻 Languages & Frameworks
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-
-### 🖥️ Backend & APIs
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a>
-
-### 🗄️ Databases
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
+### 🔥 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" title="Heroku" width="36" height="36" /></a>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🛠️ Tools & Version Control
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
+### 📬 Let's Connect!
+✉️ Email: [chihjenyu.tw@gmail.com](mailto:chihjenyu.tw@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/chihjenyu](https://www.linkedin.com/in/chihjenyu)
+
+
